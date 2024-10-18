@@ -1,7 +1,7 @@
 # Palindrome Checker App
 
 ## Description
-A simple web application that checks if a word or phrase is a palindrome.
+A simple web application that checks if a word or phrase is a palindrome. You can try it out [here](https://palindromemagic.netlify.app/).
 
 ## Installation
 1. Clone the repository.
